@@ -50,7 +50,7 @@ export ELSEVIER_API_KEY="your_elsevier_key_here"
 
 2. **Run the Script:**
    ```bash
-   python Jautogpt_rev.py
+   python Jauto.py
    ```
 
 3. **Check the Output:**
