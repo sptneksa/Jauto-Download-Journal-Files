@@ -30,19 +30,19 @@ LOG_FILE = Path("download_open_access.log")
 # Disarankan menggunakan environment variable.
 USER_EMAIL = os.getenv(
     "SCHOLAR_EMAIL",
-    "ekaseptian354@gmail.com"
+    "EMAIL"
 ).strip()
 
 OPENALEX_API_KEY = os.getenv(
     "OPENALEX_API_KEY",
-    ""
+    "KEY"
 ).strip()
 
 # API Key Elsevier dari user. Tetap bisa dioverride lewat environment variable
 # agar tidak perlu menyimpan API key langsung di kode ketika dipakai di mesin lain.
 ELSEVIER_API_KEY = os.getenv(
     "ELSEVIER_API_KEY",
-    "115ed441cd8c6f76d430d30b337d9761"
+    "ELSEVIER KEY"
 ).strip()
 
 DOAJ_API_BASE = "https://doaj.org/api/search/articles"
