@@ -2,7 +2,7 @@
 
 An automated Python tool designed to streamline the literature review process by batch-downloading Open-Access academic papers. It reads a list of DOIs from an Excel file, intelligently queries multiple legal Open-Access APIs, and downloads the valid PDF files directly to your local drive. 
 
-Whether you are compiling clinical research on MRI sequences or parsing large amounts of spatial-temporal data literature, this script automates the tedious manual download process.
+Whether you are compiling data literature, this script automates the tedious manual download process.
 
 ## ✨ Features
 
