@@ -67,3 +67,11 @@ export ELSEVIER_API_KEY="your_elsevier_key_here"
 ## ⚠️ Disclaimer
 
 This script strictly interacts with open-access and legal API sources. It does not integrate with shadow libraries (like Sci-Hub). Always ensure your use of APIs complies with the respective providers' terms of service.
+
+### Dokumentasi / Hasil
+
+![Screenshot 1](Screenshot%202026-07-23%20143859.png)
+
+![Screenshot 2](Screenshot%202026-07-23%20143933.png)
+
+![Screenshot 3](Screenshot%202026-07-23%20144127.png)
